@@ -1,11 +1,3 @@
----
-title: Emlog Stored Cross-Site Scripting(XSS)
-date: 2024-03-22 20:35:52
-categories:
-- 网络安全
-tags: [XSS,OWASP-TOP10]
----
-
 # Emlog Stored Cross-Site Scripting(XSS)
 
 ## Description
